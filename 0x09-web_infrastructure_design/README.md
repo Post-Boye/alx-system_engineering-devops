@@ -8,7 +8,7 @@
 <br>
 
 ## 0. Simple web stack
-### You must add:
+OOA### You must add:
 
 - 1 server
 - 1 web server (Nginx)
@@ -43,10 +43,4 @@
 - 1 server
 - 1 load-balancer (HAproxy) configured as cluster with the other one
 - Split components (web server, application server, database) with their own server
-
-## Authors
-
-
-- Juan Salinas | [GitHub](https://github.com/JSM788)  
-- Diego Linares | [GitHub](https://github.com/WardenCode)  
-- Luis Manrique | [GitHub](https://github.com/luismch158158)  
+  
